@@ -1,0 +1,34 @@
+- education:
+    - kindergarten: 
+        - name: 靜岡大學教育學部附屬幼稚園
+        - location: 靜岡市
+        - entrance:
+            - year: 1988
+            - month: 4
+        - graduation:
+            - year: 1990
+            - month: 3
+    - elementary school:
+        - name: 靜岡大學教育學部附屬靜岡小學校
+        - location: 靜岡市
+        - entrance:
+            - year: 1990
+            - month: 4
+        - graduation:
+            - year: 1996
+            - month: 3
+    - secondary school:
+        - name: 靜岡大學教育學部附屬靜岡中學校
+        - location:
+            靜岡市
+        - entrance:
+            - year: 1996
+            - month: 4
+        - graduation:
+            - year: 1999
+            - month: 3
+    
+            
+        
+        
+    
