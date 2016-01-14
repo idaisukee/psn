@@ -1,158 +1,157 @@
-- full_name:
-  - family_name:
-    - roman: inoue
-    - hiragana_old: ゐのうへ
-    - hiragana_new: いのうえ
-    - kanji: 井上
-  - first_name:
-    - roman: daisuke
-    - hiragana_old: だいすけ
-    - hiragana_new: だいすけ
-    - kanji: 大輔
-- date_of_birth:
-    - year: 1983
-    - month: 6
-    - day: 9
-- sex: male
-- place:
-    - country: 日本國
-    - prefecture: 北海道
-    - city: 札幌市
-- using_computer:
-    - name: MacBook Pro
-      type: Late 2011
-      manufacturer: Apple
-    - name: ThinkPad X40
-      manufacturer: IBM
-    - name: 302SH
-      manufacturer: Sharp
-- keyboard:
-    - name: Happy Hacking Keyboard Pro
-    - layout: dvorak
-- usable_computer_language:
-    - ruby
-    - php
-    - elisp
-    - shell script
-- login_shell:
-    - zsh
-- using_linux_distribution:
-    - Linux Bean
-    - Ubuntu Linux
-- favorite_input_method:
-    - Google IME
-    - ddskk
-- favorite_editor:
-    - emacs
-    - xyzzy
-- using_language_on_anatomy:
-    - 日本語
-    - Latin
-- affiliation: 
-    - name: 
-        school: 北海道大學
-        faculty: 醫學部
-        department: 醫學科
-    - entrance:
-        - year: 2011
-        - month: 4
-    - graduation:
-        - year: 2019
-        - month: 3
-        - settled: false
-- place_of_birth:
-    - country: 日本國
-    - prefecture: 靜岡縣
-    - city: 靜岡市
-- license:
-    - 第4級アマチュア無線技士
-- contact:
-    - mail: tokagenokage@gmail.com
-    - google_hangout: hibariyashiki@gmail.com
-    - line: tokagenokage
-    - skype: hibariyashiki@gmail.com
-    - facebook:
-    - twitter: @ticonz
-    - phone:
-    - letter:
-    - preference_order:
-        # 聯絡手段選好順．
-        - google_hangout
-        - facebook
-        - mail
-        - skype
-        - line
-- favorite_food:
+full_name:
+  family_name:
+    roman: inoue
+    hiragana_old: ゐのうへ
+    hiragana_new: いのうえ
+    kanji: 井上
+first_name:
+  roman: daisuke
+  hiragana_old: だいすけ
+  hiragana_new: だいすけ
+  kanji: 大輔
+date_of_birth:
+  year: 1983
+  month: 6
+  day: 9
+sex: male
+place:
+  country: 日本國
+  prefecture: 北海道
+  city: 札幌市
+using_computer:
+  - name: MacBook Pro
+    type: Late 2011
+    manufacturer: Apple
+  - name: ThinkPad X40
+    manufacturer: IBM
+  - name: 302SH
+    manufacturer: Sharp
+keyboard:
+  - name: Happy Hacking Keyboard Pro
+    layout: dvorak
+usable_computer_language:
+  - ruby
+  - php
+  - elisp
+  - shell script
+login_shell: zsh
+using_linux_distribution:
+  - Linux Bean
+  - Ubuntu Linux
+favorite_input_method:
+  - Google IME
+  - ddskk
+favorite_editor:
+  - emacs
+  - xyzzy
+using_language_on_anatomy:
+  - 日本語
+  - Latin
+affiliation: 
+  - name: 
+      school: 北海道大學
+      faculty: 醫學部
+      department: 醫學科
+  - entrance:
+      year: 2011
+      month: 4
+  - graduation:
+      year: 2019
+      month: 3
+      settled: false
+place_of_birth:
+  country: 日本國
+  prefecture: 靜岡縣
+  city: 靜岡市
+license:
+  - 第4級アマチュア無線技士
+contact:
+  mail: tokagenokage@gmail.com
+  google_hangout: hibariyashiki@gmail.com
+  line: tokagenokage
+  skype: hibariyashiki@gmail.com
+  facebook:
+  twitter: '@ticonz'
+  phone:
+  letter:
+  preference_order:
+# 聯絡手段選好順．
+    - google_hangout
+    - facebook
+    - mail
+    - skype
+    - line
+favorite_food:
     - 豆腐
     - 豚肉
-- favorite_author:
+favorite_author:
     - 中島敦
     - 夏目漱石
-- favorite_liquor:
+favorite_liquor:
     - whiskey
     - 燒酎
     - beer
-- lived_place:
-    - country: 日本國
-      prefecture: 靜岡縣
-      city: 靜岡市
-      start:
-        - year: 1983
-        - month: 6
-        - day: 9
-    - country: 日本國
-      prefecture: 東京都
-      city: 江戸川區
-      start:
-        - year: 2002
-        - month: 4
-    - country: 日本國
-      prefecture: 大阪府
-      city: 豐中市
-      start:
-        - year: 2003
-        - month: 4
-    - country: 日本國
-      prefecture: 大阪府
-      city: 吹田市
-      start:
-        - year: 2007
-        - month: 2
-    - country: 日本國
-      prefecture: 山口縣
-      city: 防府市
-      start:
-        - year: 2007
-        - month: 4
-    - country: 日本國
-      prefecture: 京都府
-      city: 京都市
-      ward: 左京區
-      start:
-        - year: 2008
-        - month: 4
-    - country: 日本國
-      prefecture: 京都府
-      city: 京都市
-      ward: 北區
-      start:
-        - year: 2010
-        - month: 4
-    - country: 日本國
-      prefecture: 北海道
-      city: 札幌市
-      ward: 北區
-      start:
-        - year: 2011
-        - month: 4
-- favorite_subject:
-    - 數學
-    - 植物系生理學
-    - 神經生理學
-    - 藥理學
-    - 解剖學
-    - 分子生物學
-- unfavorite_subject:
-    - 組織學
-    - 生化學
-    - 病理學
+lived_place:
+  - country: 日本國
+    prefecture: 靜岡縣
+    city: 靜岡市
+    start:
+      year: 1983
+      month: 6
+      day: 9
+  - country: 日本國
+    prefecture: 東京都
+    city: 江戸川區
+    start:
+      year: 2002
+      month: 4
+  - country: 日本國
+    prefecture: 大阪府
+    city: 豐中市
+    start:
+      year: 2003
+      month: 4
+  - country: 日本國
+    prefecture: 大阪府
+    city: 吹田市
+    start:
+      year: 2007
+      month: 2
+  - country: 日本國
+    prefecture: 山口縣
+    city: 防府市
+    start:
+      year: 2007
+      month: 4
+  - country: 日本國
+    prefecture: 京都府
+    city: 京都市
+    ward: 左京區
+    start:
+      year: 2008
+      month: 4
+  - country: 日本國
+    prefecture: 京都府
+    city: 京都市
+    ward: 北區
+    start:
+      year: 2010
+      month: 4
+  - country: 日本國
+    prefecture: 北海道
+    city: 札幌市
+    ward: 北區
+    start:
+      year: 2011
+      month: 4
+favorite_subject:
+  - 數學
+  - 植物系生理學
+  - 神經生理學
+  - 藥理學
+  - 解剖學
+  - 分子生物學
+unfavorite_subject:
+  - 組織學
+  - 生化學
+  - 病理學
